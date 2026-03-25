@@ -30,6 +30,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*npj AI'26*) **AI agent in healthcare: applications, evaluations, and future directions**
   [[📝 Paper](https://www.nature.com/articles/s44387-026-00076-4)]
 
+- (*PLOS One'25*) **Artificial intelligence agents in healthcare research: A scoping review**
+  [[📝 Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342182)]
+
 - (*arXiv'25*) **A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems**
   [[📝 Paper](https://arxiv.org/abs/2508.07407)] [[💻 Code](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)]
 
@@ -46,6 +49,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
+
+- (*arXiv'26*) **AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**
+  [[📝 Paper](https://arxiv.org/abs/2603.18000)] [[💻 Code](https://github.com/zzatpku/AgentFactory)]
 
 - (*arXiv'26*) **CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Evolving Challenges** [[📝 Paper](https://arxiv.org/pdf/2603.11863)]
 
@@ -108,6 +114,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'25*) **Evolving Diagnostic Agents in a Virtual Clinical Environment**
   [[📝 Paper](https://arxiv.org/abs/2510.24654)]
 
+- (*bioRxiv'25*) **LabOS: The AI-XR Co-Scientist That Sees and Works With Humans**
+  [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.10.16.679418v2)] [[💻 Code](https://github.com/zaixizhang/LabOS)] [[🌐 Project](https://ai4labos.com/)]
+
 - (*arXiv'25*) **A Co-evolving Agentic AI System for Medical Imaging Analysis (TissueLab)**
   [[📝 Paper](https://arxiv.org/abs/2509.20279)] [[🖥️ Platform](https://tissuelab.org)]
 
@@ -140,6 +149,11 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'25*) **EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks**
   [[📝 Paper](https://arxiv.org/abs/2502.05907)] [[💻 Code](https://github.com/siyuyuan/evoagent)]
+
+### 2024
+
+- (*arXiv'24*) **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**
+  [[📝 Paper](https://arxiv.org/abs/2405.02957)]
 
 ### 2023
 
@@ -213,6 +227,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*MICCAI'25*) **MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**
   [[📝 Paper](https://arxiv.org/pdf/2503.22678)] [[💻 Code](https://github.com/MAXNORM8650/MedAgentSim)]
 
+- (*arXiv'24*) **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**
+  [[📝 Paper](https://arxiv.org/abs/2405.02957)]
+
 ### Biomedical and Healthcare Research
 
 - (*arXiv'26*) **Emulating Clinician Cognition via Self-Evolving Deep Clinical Research**
@@ -229,6 +246,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'25*) **HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research**
   [[📝 Paper](https://arxiv.org/abs/2508.02621)] [[💻 Code](https://github.com/yhzhu99/HealthFlow)]
+
+- (*bioRxiv'25*) **LabOS: The AI-XR Co-Scientist That Sees and Works With Humans**
+  [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.10.16.679418v2)] [[💻 Code](https://github.com/zaixizhang/LabOS)] [[🌐 Project](https://ai4labos.com/)]
 
 - (*Advanced Science'25*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
   [[📝 Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417066)]
@@ -258,6 +278,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
   [[📝 Paper](https://arxiv.org/abs/2602.16553)]
 
 ### General Self-Evolving Frameworks and Methods
+
+- (*arXiv'26*) **AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**
+  [[📝 Paper](https://arxiv.org/abs/2603.18000)] [[💻 Code](https://github.com/zzatpku/AgentFactory)]
 
 - (*arXiv'26*) **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence**
   [[📝 Paper](https://arxiv.org/abs/2603.14771)] [[💻 Code](https://github.com/ZJU-LLMs/Agent-Kernel/tree/main/demo/OpenHospital)]
@@ -297,6 +320,10 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - **Awesome-Self-Evolving-Agents**
   A comprehensive collection of self-evolving AI agents across general domains.
   [[💻 Repository](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)]
+
+- **Awesome-World-Models-for-Healthcare**
+  A curated collection of world models for healthcare.
+  [[💻 Repository](https://github.com/chengwang96/Awesome-World-Models-for-Healthcare)]
 
 ---
 
