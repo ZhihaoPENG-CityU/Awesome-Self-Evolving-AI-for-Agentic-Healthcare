@@ -53,6 +53,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
 
+- (*arXiv'26*) **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**
+  [[📝 Paper](https://arxiv.org/abs/2603.18718)]
+
 - (*arXiv'26*) **AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**
   [[📝 Paper](https://arxiv.org/abs/2603.18000)] [[💻 Code](https://github.com/zzatpku/AgentFactory)]
 
@@ -131,6 +134,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'25*) **HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research**
   [[📝 Paper](https://arxiv.org/abs/2508.02621)] [[💻 Code](https://github.com/yhzhu99/HealthFlow)]
+
+- (*arXiv'25*) **Integrating Dynamical Systems Learning with Foundational Models: A Meta-Evolutionary AI Framework for Clinical Trials**
+  [[📝 Paper](https://arxiv.org/abs/2506.14782)]
 
 - (*Advanced Science'25*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
   [[📝 Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417066)]
@@ -282,6 +288,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*npj Digital Medicine'26*) **EvoMDT: A Self-Evolving Multi-Agent System for Structured Clinical Decision-Making in Multi-Cancer**
   [[📝 Paper](https://www.nature.com/articles/s41746-025-02304-8)] [[💻 Code](https://github.com/KesselZ/EvoMDT)]
 
+- (*arXiv'25*) **Integrating Dynamical Systems Learning with Foundational Models: A Meta-Evolutionary AI Framework for Clinical Trials**
+  [[📝 Paper](https://arxiv.org/abs/2506.14782)]
+
 - (*arXiv'25*) **MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation**
   [[📝 Paper](https://arxiv.org/abs/2503.13856)] [[🌐 Project](https://kaichennj.github.io/MDTeamGPT-Main/)]
 
@@ -311,6 +320,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
+
+- (*arXiv'26*) **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**
+  [[📝 Paper](https://arxiv.org/abs/2603.18718)]
 
 - (*ICLR'26*) **CoT-Evo: Evolutionary Distillation of CoT for Scientific Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2510.13166)] [[💻 Code](https://github.com/Irving-Feng/CoT-Evo)]
