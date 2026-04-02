@@ -33,8 +33,8 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Agentic AI in Healthcare & Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-based Agents**
   [[📝 Paper](https://arxiv.org/abs/2602.04813)]
 
-- (*PLOS One'25*) **Artificial intelligence agents in healthcare research: A scoping review**
-  [[📝 Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342182)]
+<!-- - (*PLOS One'25*) **Artificial intelligence agents in healthcare research: A scoping review** -->
+  <!-- [[📝 Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342182)] -->
 
 - (*arXiv'25*) **A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems**
   [[📝 Paper](https://arxiv.org/abs/2508.07407)] [[💻 Code](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)]
@@ -44,6 +44,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ---
 
+
 ## 📝 Self-Evolving AI Papers
 
 > Entries are sorted by year in descending order.
@@ -52,6 +53,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **AIRA_2: Overcoming Bottlenecks in AI Research Agents**
   [[📝 Paper](https://arxiv.org/pdf/2603.26499)]
+
+- (*arXiv'26*) **Reflect to Inform: Boosting Multimodal Reasoning via Information-Gain-Driven Verification**
+  [[📝 Paper](https://arxiv.org/pdf/2603.26348v1)]
+
+- (*arXiv'26*) **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI**
+  [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
 
 - (*arXiv'26*) **UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience**
   [[📝 Paper](https://arxiv.org/pdf/2603.24533v1)]
