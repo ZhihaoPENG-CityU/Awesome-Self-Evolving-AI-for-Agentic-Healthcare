@@ -65,6 +65,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI**
   [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
 
+- (*arXiv'26*) **Can Large Language Models Self-Correct in Medical Question Answering? An Exploratory Study**
+  [[📝 Paper](https://arxiv.org/abs/2604.00261)]
+
 - (*arXiv'26*) **Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding**
   [[📝 Paper](https://arxiv.org/abs/2603.29709)]
 
@@ -88,6 +91,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **EviAgent: Evidence-Driven Agent for Radiology Report Generation**
   [[📝 Paper](https://arxiv.org/pdf/2603.13956)]
+
+- (*arXiv'26*) **Agentic AI for Clinical Urgency Mapping and Queue Optimization in High-Volume Outpatient Departments: A Simulation-Based Evaluation**
+  [[📝 Paper](https://arxiv.org/abs/2604.00215)]
 
 - (*arXiv'26*) **TheraAgent: Multi-Agent Framework with Self-Evolving Memory and Evidence-Calibrated Reasoning for PET Theranostics**
   [[📝 Paper](https://arxiv.org/abs/2603.13676)]
@@ -140,8 +146,14 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
+- (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
+  [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
+
 - (*arXiv'26*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
   [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
+
+- (*arXiv'26*) **EvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**
+  [[📝 Paper](https://arxiv.org/abs/2604.01687)]
 
 - (*arXiv'26*) **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance**
   [[📝 Paper](https://arxiv.org/abs/2604.01113)]
@@ -250,6 +262,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **SkinGPT-X: A Self-Evolving Collaborative Multi-Agent System for Transparent and Trustworthy Dermatological Diagnosis**
   [[📝 Paper](https://arxiv.org/abs/2603.26122)]
+
+- (*arXiv'26*) **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI**
+  [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
+
+- (*arXiv'26*) **Can Large Language Models Self-Correct in Medical Question Answering? An Exploratory Study**
+  [[📝 Paper](https://arxiv.org/abs/2604.00261)]
 
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
@@ -364,6 +382,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding**
   [[📝 Paper](https://arxiv.org/abs/2603.29709)]
 
+- (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
+  [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
+
+- (*arXiv'26*) **Agentic AI for Clinical Urgency Mapping and Queue Optimization in High-Volume Outpatient Departments: A Simulation-Based Evaluation**
+  [[📝 Paper](https://arxiv.org/abs/2604.00215)]
+
 - (*arXiv'26*) **ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization**
   [[📝 Paper](https://arxiv.org/abs/2601.00290)]
 
@@ -394,6 +418,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance**
   [[📝 Paper](https://arxiv.org/abs/2604.01113)]
+
+- (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
+  [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
 
 - (*arXiv'26*) **The Doctor Will (Still) See You Now: On the Structural Limits of Agentic AI in Healthcare**
   [[📝 Paper](https://arxiv.org/abs/2602.18460)]
@@ -429,6 +456,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
   [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
+
+- (*arXiv'26*) **EvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**
+  [[📝 Paper](https://arxiv.org/abs/2604.01687)]
 
 - (*arXiv'26*) **Cognitive Friction: A Decision-Theoretic Framework for Bounded Deliberation in Tool-Using Agents**
   [[📝 Paper](https://arxiv.org/abs/2603.30031)]
