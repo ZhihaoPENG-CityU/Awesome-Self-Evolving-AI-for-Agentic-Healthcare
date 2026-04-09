@@ -149,6 +149,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses (BioMedAgent)**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
+- (*arXiv'26*) **Evidence-Based Actor-Verifier Reasoning for Echocardiographic Agents**
+  [[📝 Paper](https://arxiv.org/pdf/2604.06347)]
+
 - (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
   [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
 
@@ -163,9 +166,6 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor**
   [[📝 Paper](https://arxiv.org/abs/2604.00931)]
-
-- (*Cambridge Open Engage'26*) **Artificial Epidemiology: How self-evolving clinical AI manufactures disease prevalence from administrative coding artifacts**
-  [[📝 Paper](https://client.prod.orp.cambridge.org/engage/coe/article-details/69ca3557d1922e37d5096bf4)]
 
 - (*arXiv'26*) **Perfecting Human–AI Interaction at Clinical Scale: Turning Production Signals into Safer, More Human Conversations**
   [[📝 Paper](https://arxiv.org/abs/2603.29893)]
@@ -312,6 +312,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **EviAgent: Evidence-Driven Agent for Radiology Report Generation**
   [[📝 Paper](https://arxiv.org/pdf/2603.13956)]
+
+- (*arXiv'26*) **Evidence-Based Actor-Verifier Reasoning for Echocardiographic Agents**
+  [[📝 Paper](https://arxiv.org/pdf/2604.06347)]
 
 - (*arXiv'26*) **Med-Evo: Test-time Self-evolution for Medical Multimodal Large Language Models**
   [[📝 Paper](https://arxiv.org/abs/2603.07443)]
