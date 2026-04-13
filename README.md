@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">
   <strong>Awesome-Self-Evolving-AI-for-Agentic-Healthcare</strong>
 </h1>
@@ -197,6 +196,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework**
   [[📝 Paper](https://arxiv.org/abs/2604.08226)]
+
+- (*arXiv'26*) **EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents**
+  [[📝 Paper](https://arxiv.org/abs/2604.07549)]
+
+- (*arXiv'26*) **Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents (CACM)**
+  [[📝 Paper](https://arxiv.org/abs/2604.09308)]
 
 - (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
   [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
@@ -415,6 +420,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence**
   [[📝 Paper](https://arxiv.org/abs/2603.14771)] [[💻 Code](https://github.com/ZJU-LLMs/Agent-Kernel/tree/main/demo/OpenHospital)]
 
+- (*arXiv'26*) **EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents**
+  [[📝 Paper](https://arxiv.org/abs/2604.07549)]
+
 - (*arXiv'25*) **Evolving Diagnostic Agents in a Virtual Clinical Environment**
   [[📝 Paper](https://arxiv.org/abs/2510.24654)]
 
@@ -458,6 +466,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'25*) **RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases**
   [[📝 Paper](https://arxiv.org/abs/2510.05764)]
+
+- (*arXiv'26*) **Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents (CACM)**
+  [[📝 Paper](https://arxiv.org/abs/2604.09308)]
 
 - (*Advanced Science'25*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
   [[📝 Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417066)]
