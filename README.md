@@ -212,6 +212,21 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*CEEM'26*) **From Non-Agentic LLMs to Multi-Agent Systems in Emergency Medicine: A Scoping Review**
   [[📝 Paper](https://doi.org/10.15441/ceem.26.136)]
 
+- (*GitHub'26*) **EverOS: Build, evaluate, and integrate long-term memory for self-evolving agents**
+  [[💻 Code](https://github.com/EverMind-AI/EverOS)]
+
+- (*arXiv'26*) **QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence**
+  [[📝 Paper](https://arxiv.org/abs/2604.12867)]
+
+- (*arXiv'26*) **Development, Evaluation, and Deployment of a Multi-Agent System for Thoracic Tumor Board**
+  [[📝 Paper](https://arxiv.org/abs/2604.12161)]
+
+- (*arXiv'26*) **CARIS: Coding-Free and Privacy-Preserving MCP Framework for Clinical Agentic Research Intelligence System**
+  [[📝 Paper](https://arxiv.org/abs/2604.12258)]
+
+- (*arXiv'26*) **A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation**
+  [[📝 Paper](https://arxiv.org/abs/2604.00249)]
+
 - (*arXiv'26*) **Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents (CACM)**
   [[📝 Paper](https://arxiv.org/abs/2604.09308)]
 
@@ -350,6 +365,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment**
   [[📝 Paper](https://arxiv.org/abs/2604.08988)]
 
+- (*arXiv'26*) **QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence**
+  [[📝 Paper](https://arxiv.org/abs/2604.12867)]
+
 - (*arXiv'26*) **Can Large Language Models Self-Correct in Medical Question Answering? An Exploratory Study**
   [[📝 Paper](https://arxiv.org/abs/2604.00261)]
 
@@ -461,6 +479,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Emulating Clinician Cognition via Self-Evolving Deep Clinical Research**
   [[📝 Paper](https://arxiv.org/abs/2603.10677)]
 
+- (*arXiv'26*) **QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence**
+  [[📝 Paper](https://arxiv.org/abs/2604.12867)]
+
+- (*arXiv'26*) **CARIS: Coding-Free and Privacy-Preserving MCP Framework for Clinical Agentic Research Intelligence System**
+  [[📝 Paper](https://arxiv.org/abs/2604.12258)]
+
 - (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
 
@@ -511,6 +535,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*npj Digital Medicine'26*) **EvoMDT: A Self-Evolving Multi-Agent System for Structured Clinical Decision-Making in Multi-Cancer**
   [[📝 Paper](https://www.nature.com/articles/s41746-025-02304-8)] [[💻 Code](https://github.com/KesselZ/EvoMDT)]
 
+- (*arXiv'26*) **Development, Evaluation, and Deployment of a Multi-Agent System for Thoracic Tumor Board**
+  [[📝 Paper](https://arxiv.org/abs/2604.12161)]
+
 - (*arXiv'26*) **Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication (SeqComm-DFL)**
   [[📝 Paper](https://arxiv.org/abs/2604.08944)]
 
@@ -521,6 +548,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
   [[📝 Paper](https://arxiv.org/abs/2503.13856)] [[🌐 Project](https://kaichennj.github.io/MDTeamGPT-Main/)]
 
 ### Health Communication and Alignment
+
+- (*arXiv'26*) **A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation**
+  [[📝 Paper](https://arxiv.org/abs/2604.00249)]
 
 - (*arXiv'26*) **PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor**
   [[📝 Paper](https://arxiv.org/abs/2604.00931)]
@@ -538,6 +568,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance**
   [[📝 Paper](https://arxiv.org/abs/2604.01113)]
+
+- (*arXiv'26*) **A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation**
+  [[📝 Paper](https://arxiv.org/abs/2604.00249)]
 
 - (*arXiv'26*) **The Doctor Will (Still) See You Now: On the Structural Limits of Agentic AI in Healthcare**
   [[📝 Paper](https://arxiv.org/abs/2602.18460)]
@@ -573,6 +606,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
+
+- (*GitHub'26*) **EverOS: Build, evaluate, and integrate long-term memory for self-evolving agents**
+  [[💻 Code](https://github.com/EverMind-AI/EverOS)]
 
 - (*arXiv'26*) **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**
   [[📝 Paper](https://arxiv.org/abs/2603.18718)]
