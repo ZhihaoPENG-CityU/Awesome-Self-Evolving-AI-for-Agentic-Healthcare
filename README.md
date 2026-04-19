@@ -797,9 +797,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ## 🔗 Related Repositories
 
-- **Awesome-AI-Agents-for-Healthcare**
-  A curated collection of AI agents for healthcare.
-  [[💻 Repository](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)]
+- **MaxHermes (MiniMax M2.7)**
+  Personal AI agent on the MiniMax Agent platform (“grows with you” companion positioning).
+  [[🌐 Project](https://agent.minimaxi.com/max-hermes)]
 
 - **Awesome-Self-Evolving-Agents**
   A comprehensive collection of self-evolving AI agents across general domains.
