@@ -912,6 +912,18 @@ Suggested format:
 
 Please try to keep the formatting consistent with the existing entries.
 
+### Curation scope (clinical agents vs. epidemic / biological ABM)
+
+**In scope:** software agents, multi-agent systems, mobile agents, or LLM-based agents applied to **clinical workflows, hospitals, telehealth, EMR/EHR integration, ambient assisted living with an explicit agent architecture**, and similar **care-delivery or health-informatics** settings.
+
+**Do not add** (even if “agent” appears in the title or venue):
+
+- **Epidemiological or biological ABM** — population-level infection dynamics, within-host pathogen or immune simulations, trial-design ABMs, geographic or network disease spread, “super-spreader” ABMs, etc. (typical examples from screening lists: hepatitis / alveolar / cholera / TB / HIV-trial ABMs, influenza spread in communities or EDs framed as disease dynamics, immune-system processes in a virtual anatomy). These belong in computational epidemiology or systems biology, not this **agentic healthcare software** list.
+
+- **Borderline platform papers** — exclude when the contribution is primarily: **Web services or cloud home-care** without a stated multi-agent design; **generic IoT / sensor monitoring or wellness dashboards** without agent-centric methods; **generic distributed MAS architecture** without healthcare-centric evaluation; **preventive-medicine or network influenza** models that are disease models rather than clinical information agents; **ubiquitous fitness / physical-activity** sensor platforms without agent methods; **biology-style immune** simulations described as decentralized processes rather than clinical AI agents.
+
+These rules keep the repository aligned with **agents for care delivery and health IT**, not ABM-for-disease-modeling alone.
+
 ---
 
 ## ✉️ Contact Us
