@@ -17,6 +17,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 ## 📌 Contents
 
 - [Survey Papers](#-survey-papers)
+- [Classic agent-based health care (2002–2008)](#classic-agent-based-health-care-20022008)
 - [Self-Evolving AI Papers](#-self-evolving-ai-papers)
 - [By Topic](#-by-topic)
 - [Related Repositories](#-related-repositories)
@@ -53,6 +54,77 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*Int. J. Med. Inf.'10*) **Agents applied in health care: A review**
   [[📝 Paper](https://www.sciencedirect.com/science/article/pii/S138650561000016X)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/20129820/)]
+
+### Classic agent-based health care (2002–2008)
+
+> Representative **software-agent / multi-agent** work targeting **clinical information systems, telecare, hospital workflows, guideline enactment, or surveillance**, with **first publication in 2002–2008** (aligned with the literature window in Isern & Sánchez & Moreno, *Int. J. Med. Inf.*, 2010).  
+> **Not listed here (typical reasons):** general agent theory or MAS textbooks without a medical deployment (#1, #6–7, #38–40, #50); AI-in-medicine position pieces or surveys **dated 2009** (#5); agent papers **dated 2009** (#24 HealthAgents journal article, #54 interoperability survey); non-agent-centric bioinformatics reviews (#17); classic **ICMAS 1998** hospital scheduling (#9); incomplete / venue-unclear lines in the source list (#16).
+
+- (*Birkhäuser'03*) **Applications of Software Agent Technology in the Health Care Domain** (edited volume, Nealon & Moreno)
+  [[📝 Book](https://link.springer.com/book/10.1007/978-3-0348-7976-7)]
+
+- (*PDCAT'04*) **Architecture of Agent-Based Healthcare Intelligent Assistant on Grid Environment** (Singh et al.)
+  [[📝 Paper](https://doi.org/10.1007/978-3-540-30501-9_15)]
+
+- (*TELECARE'04*) **Aingeru: an Innovating System for Tele Assistance of Elderly People** (Tablado et al.)
+  [[📝 Paper](https://doi.org/10.5220/0002681100270036)]
+
+- (*Appl. Intell.'04*) **UCTx: A Multi-Agent System to Assist a Transplant Coordination Unit** (Cortés et al.)
+  [[📝 Paper](https://doi.org/10.1023/B:APIN.0000011142.91514.57)]
+
+- (*ISMIS'05*) **An Intelligent System for Assisting Elderly People** (Tablado et al.)
+  [[📝 Paper](https://doi.org/10.1007/11425274_48)]
+
+- (*AI Commun.'05*) **Integration of hospital data using agent technologies: A case study** (Cruz-Correia et al.)
+  [[📝 Paper](https://content.iospress.com/articles/ai-communications/aic342)]
+
+- (*AI Commun.'05*) **Agent-based ambient intelligence for healthcare** (Rodríguez et al.)
+  [[📝 Paper](https://content.iospress.com/articles/ai-communications/aic344)]
+
+- (*SGAI'05*) **Web-based Medical Teaching using a Multi-Agent System** (Alves et al.)
+  [[📝 Paper](https://doi.org/10.1007/1-84628-224-1_14)]
+
+- (*IEEE Trans. IT Biomed.'05*) **A multiagent system enhancing home-care health services for chronic disease management** (Koutkias et al.)
+  [[📝 Paper](https://doi.org/10.1109/TITB.2005.847511)]
+
+- (*IEEE Intell. Syst.'06*) **Secure integration of distributed medical data using mobile agents** (Vieira-Marques et al.)
+  [[📝 Paper](https://doi.org/10.1109/MIS.2006.119)]
+
+- (*IEEE Intell. Syst.'06*) **Privacy-aware autonomous agents for pervasive healthcare** (Tentori et al.)
+  [[📝 Paper](https://doi.org/10.1109/MIS.2006.117)]
+
+- (*IEEE Intell. Syst.'06*) **Increasing Human-Organ Transplant Availability: Argumentation-Based Agent Deliberation** (Tolchinsky et al.)
+  [[📝 Paper](https://doi.org/10.1109/MIS.2006.118)]
+
+- (*Stud. Comput. Intell.'07*) **Assistive Wheelchair Navigation: A Cognitive View** (Cortés et al.; incl. Martínez & Caltagirone)
+  [[📝 Paper](https://doi.org/10.1007/978-3-540-47527-9_7)]
+
+- (*CEEMAS'07*) **HeCaSe2: A Multi-agent Ontology-Driven Guideline Enactment Engine** (Isern et al.)
+  [[📝 Paper](https://doi.org/10.1007/978-3-540-75254-7_38)]
+
+- (*KES-AMSTA'07*) **Mobile Agents Using Data Mining for Diagnosis Support in Ubiquitous Healthcare** (Mateo et al.)
+  [[📝 Paper](https://doi.org/10.1007/978-3-540-72830-6_83)]
+
+- (*AIME'07*) **Adaptive Optimization of Hospital Resource Calendars** (Vermeulen et al.)
+  [[📝 Paper](https://doi.org/10.1007/978-3-540-73599-1_41)]
+
+- (*Int. J. Med. Inf.'07*) **Towards patient-related information needs** (Braun et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.ijmedinf.2006.11.006)]
+
+- (*Artificial Intelligence in Medicine'08*) **A cognitive architecture for robot self-consciousness** (Chella et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.artmed.2008.07.004)]
+
+- (*Int. J. Med. Inf.'08*) **Computer-based execution of clinical guidelines: A review** (Isern & Moreno)
+  [[📝 Paper](https://doi.org/10.1016/j.ijmedinf.2008.05.010)]
+
+- (*IEEE Intell. Syst.'08*) **GerAmI: Improving Healthcare Delivery in Geriatric Residences** (Corchado et al.)
+  [[📝 Paper](https://doi.org/10.1109/MIS.2008.27)]
+
+- (*Birkhäuser'08*) **Agent Technology and e-Health** (edited volume, Annicchiarico, Cortés & Urdiales)
+  [[📝 Book](https://link.springer.com/book/10.1007/978-3-7643-8547-7)]
+
+- (*AAMAS Industry'08*) **Agent-based patient admission scheduling in hospitals** (Hutzschenreuter et al.)
+  [[📝 Paper](https://dl.acm.org/citation.cfm?id=1402804)]
 
 ---
 
