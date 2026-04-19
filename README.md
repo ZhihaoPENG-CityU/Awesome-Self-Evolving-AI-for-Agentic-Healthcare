@@ -224,6 +224,18 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**
   [[📝 Paper](https://arxiv.org/abs/2604.07791)]
 
+- (*arXiv'26*) **Seeing Through Experts' Eyes: A Foundational Vision Language Model Trained on Radiologists' Gaze and Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2604.14316)]
+
+- (*arXiv'26*) **Evo-MedAgent: Beyond One-Shot Diagnosis with Agents That Remember, Reflect, and Improve**
+  [[📝 Paper](https://arxiv.org/abs/2604.14475)]
+
+- (*arXiv'26*) **Rethinking Patient Education as Multi-turn Multi-modal Interaction**
+  [[📝 Paper](https://arxiv.org/abs/2604.14656)]
+
+- (*arXiv'26*) **RadAgent: A Tool-Using AI Agent for Stepwise Interpretation of Chest Computed Tomography**
+  [[📝 Paper](https://arxiv.org/abs/2604.15231)] [[🌐 Project](https://rad-agent.github.io/)]
+
 - (*arXiv'26*) **Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework**
   [[📝 Paper](https://arxiv.org/abs/2604.08226)]
 
@@ -505,6 +517,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **EviAgent: Evidence-Driven Agent for Radiology Report Generation**
   [[📝 Paper](https://arxiv.org/pdf/2603.13956)]
 
+- (*arXiv'26*) **RadAgent: A Tool-Using AI Agent for Stepwise Interpretation of Chest Computed Tomography**
+  [[📝 Paper](https://arxiv.org/abs/2604.15231)] [[🌐 Project](https://rad-agent.github.io/)]
+
+- (*arXiv'26*) **Seeing Through Experts' Eyes: A Foundational Vision Language Model Trained on Radiologists' Gaze and Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2604.14316)]
+
 - (*arXiv'26*) **Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning**
   [[📝 Paper](https://arxiv.org/abs/2604.13598)]
 
@@ -637,6 +655,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Development, Evaluation, and Deployment of a Multi-Agent System for Thoracic Tumor Board**
   [[📝 Paper](https://arxiv.org/abs/2604.12161)]
 
+- (*arXiv'26*) **Evo-MedAgent: Beyond One-Shot Diagnosis with Agents That Remember, Reflect, and Improve**
+  [[📝 Paper](https://arxiv.org/abs/2604.14475)]
+
 - (*arXiv'26*) **Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication (SeqComm-DFL)**
   [[📝 Paper](https://arxiv.org/abs/2604.08944)]
 
@@ -668,6 +689,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Perfecting Human–AI Interaction at Clinical Scale: Turning Production Signals into Safer, More Human Conversations**
   [[📝 Paper](https://arxiv.org/abs/2603.29893)]
+
+- (*arXiv'26*) **Rethinking Patient Education as Multi-turn Multi-modal Interaction**
+  [[📝 Paper](https://arxiv.org/abs/2604.14656)]
 
 ### Ethics, Safety, and Limits
 
