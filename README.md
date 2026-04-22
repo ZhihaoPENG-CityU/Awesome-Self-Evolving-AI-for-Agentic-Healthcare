@@ -226,6 +226,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence**
   [[📝 Paper](https://arxiv.org/pdf/2604.12867)]
 
+- (*ACL'26*) **Dialectic-Med: Mitigating Diagnostic Hallucinations via Counterfactual Adversarial Multi-Agent Debate**
+  [[📝 Paper](https://arxiv.org/abs/2604.11258)]
+
+- (*AACR Annual Meeting'26*) **Agentic AI as the Cancer Researcher: Autonomous Discovery in Oncology**
+  [[🌐 Program](https://www.aacr.org/meeting/aacr-annual-meeting-2026/program/)]
+
 - (*arXiv'26*) **Development, Evaluation, and Deployment of a Multi-Agent System for Thoracic Tumor Board**
   [[📝 Paper](https://arxiv.org/abs/2604.12161)]
 
@@ -825,6 +831,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Improving Clinical Diagnosis with Counterfactual Multi-Agent Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.27820)]
 
+- (*ACL'26*) **Dialectic-Med: Mitigating Diagnostic Hallucinations via Counterfactual Adversarial Multi-Agent Debate**
+  [[📝 Paper](https://arxiv.org/abs/2604.11258)]
+
 - (*Health Inf Sci Syst'26*) **Enhancing LLM-based medical decision-making by test-time knowledge acquisition**
   [[📝 Paper](https://doi.org/10.1007/s13755-026-00449-8)]
 
@@ -929,6 +938,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
   [[📝 Paper](https://arxiv.org/abs/2405.02957)]
 
 ### Biomedical and Healthcare Research
+
+- (*AACR Annual Meeting'26*) **Agentic AI as the Cancer Researcher: Autonomous Discovery in Oncology**
+  [[🌐 Program](https://www.aacr.org/meeting/aacr-annual-meeting-2026/program/)]
 
 - (*arXiv'26*) **Self-evolving AI agents for protein discovery and directed evolution**
   [[📝 Paper](https://arxiv.org/abs/2603.27303)] [[💻 Code](https://github.com/ai4protein/VenusFactory2)]
