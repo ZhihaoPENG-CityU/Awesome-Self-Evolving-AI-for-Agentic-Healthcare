@@ -112,6 +112,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Agentic AI for Clinical Urgency Mapping and Queue Optimization in High-Volume Outpatient Departments: A Simulation-Based Evaluation**
   [[📝 Paper](https://arxiv.org/abs/2604.00215)]
 
+- (*arXiv'26*) **From Fuzzy to Formal: Scaling Hospital Quality Improvement with AI**
+  [[📝 Paper](https://arxiv.org/abs/2604.20055)]
+
 - (*arXiv'26*) **TheraAgent: Multi-Agent Framework with Self-Evolving Memory and Evidence-Calibrated Reasoning for PET Theranostics**
   [[📝 Paper](https://arxiv.org/abs/2603.13676)]
 
@@ -208,8 +211,14 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Rethinking Patient Education as Multi-turn Multi-modal Interaction**
   [[📝 Paper](https://arxiv.org/abs/2604.14656)]
 
+- (*arXiv'26*) **Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs**
+  [[📝 Paper](https://arxiv.org/abs/2604.20791)]
+
 - (*arXiv'26*) **RadAgent: A Tool-Using AI Agent for Stepwise Interpretation of Chest Computed Tomography**
   [[📝 Paper](https://arxiv.org/abs/2604.15231)] [[🌐 Project](https://rad-agent.github.io/)]
+
+- (*arXiv'26*) **Agentic Large Language Models for Training-Free Neuro-Radiological Image Analysis**
+  [[📝 Paper](https://arxiv.org/abs/2604.16729)]
 
 - (*arXiv'26*) **Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework**
   [[📝 Paper](https://arxiv.org/abs/2604.08226)]
@@ -246,6 +255,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation**
   [[📝 Paper](https://arxiv.org/abs/2604.00249)]
+
+- (*arXiv'26*) **Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**
+  [[📝 Paper](https://arxiv.org/abs/2604.21860)]
 
 - (*arXiv'26*) **Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents (CACM)**
   [[📝 Paper](https://arxiv.org/abs/2604.09308)]
@@ -320,6 +332,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'25*) **A Co-evolving Agentic AI System for Medical Imaging Analysis (TissueLab)**
   [[📝 Paper](https://arxiv.org/abs/2509.20279)] [[🖥️ Platform](https://tissuelab.org)]
+
+- (*arXiv'25*) **Evaluation of Causal Reasoning for Large Language Models in Contextualized Clinical Scenarios of Laboratory Test Interpretation**
+  [[📝 Paper](https://arxiv.org/abs/2509.16372)]
 
 - (*arXiv'25*) **HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research**
   [[📝 Paper](https://arxiv.org/abs/2508.02621)] [[💻 Code](https://github.com/yhzhu99/HealthFlow)]
