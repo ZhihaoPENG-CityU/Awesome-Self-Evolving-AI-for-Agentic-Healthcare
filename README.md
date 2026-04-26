@@ -67,6 +67,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging**
   [[📝 Paper](https://arxiv.org/abs/2604.04078)] [[💻 Code](https://github.com/plantain-herb/Cardiac-Agent)]
 
+- (*arXiv'26*) **Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction**
+  [[📝 Paper](https://arxiv.org/abs/2604.21154)]
+
 - (*arXiv'26*) **From Exposure to Internalization: Dual-Stream Calibration for In-context Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2604.06262)]
 
@@ -114,6 +117,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **From Fuzzy to Formal: Scaling Hospital Quality Improvement with AI**
   [[📝 Paper](https://arxiv.org/abs/2604.20055)]
+
+- (*arXiv'26*) **First, Do No Harm (With LLMs): Mitigating Racial Bias via Agentic Workflows**
+  [[📝 Paper](https://arxiv.org/abs/2604.18038)]
 
 - (*arXiv'26*) **TheraAgent: Multi-Agent Framework with Self-Evolving Memory and Evidence-Calibrated Reasoning for PET Theranostics**
   [[📝 Paper](https://arxiv.org/abs/2603.13676)]
@@ -228,6 +234,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Trustworthy Clinical Decision Support Using Meta-Predicates and Domain-Specific Languages**
   [[📝 Paper](https://arxiv.org/abs/2604.21263)]
+
+- (*arXiv'26*) **Neuro-Symbolic Resolution of Recommendation Conflicts in Multimorbidity Clinical Guidelines**
+  [[📝 Paper](https://arxiv.org/abs/2604.17340)]
 
 - (*arXiv'26*) **EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents**
   [[📝 Paper](https://arxiv.org/abs/2604.07549)]
