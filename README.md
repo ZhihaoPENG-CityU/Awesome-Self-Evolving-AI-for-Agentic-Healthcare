@@ -430,6 +430,24 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **An Empirical Study of Agent Skills for Healthcare: Practice, Gaps, and Governance**
   [[📝 Paper](https://arxiv.org/abs/2605.02709)]
 
+- (*arXiv'26*) **MedSynapse-V: Bridging Visual Perception and Clinical Intuition via Latent Memory Evolution**
+  [[📝 Paper](https://arxiv.org/abs/2604.26283)]
+
+- (*arXiv'26*) **ARA: Agentic Reproducibility Assessment for Scalable Support of Scientific Peer-Review**
+  [[📝 Paper](https://arxiv.org/abs/2605.02651)] [[💻 Code](https://github.com/AndresLaverdeMarin/agentic_reproducibility_assessment)]
+
+- (*arXiv'26*) **Healthcare AI GYM for Medical Agents**
+  [[📝 Paper](https://arxiv.org/abs/2605.02943)] [[💻 Code](https://github.com/minstar/Healthcare_GYM)]
+
+- (*arXiv'26*) **CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare**
+  [[📝 Paper](https://arxiv.org/abs/2603.24157)] [[🌐 Project](https://akashghosh.github.io/Care-Pilot/)] [[💻 Code](https://github.com/AkashGhosh/CarePilot)]
+
+- (*arXiv'26*) **MemTier: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents**
+  [[📝 Paper](https://arxiv.org/abs/2605.03675)]
+
+- (*arXiv'26*) **How Well Do Multimodal Models Reason on ECG Signals?**
+  [[📝 Paper](https://arxiv.org/abs/2603.00312)]
+
 ### 2025
 
 - (*arXiv'25*) **Evolving Diagnostic Agents in a Virtual Clinical Environment**
@@ -963,6 +981,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments**
   [[📝 Paper](https://arxiv.org/abs/2605.02240)]
 
+- (*arXiv'26*) **Healthcare AI GYM for Medical Agents**
+  [[📝 Paper](https://arxiv.org/abs/2605.02943)] [[💻 Code](https://github.com/minstar/Healthcare_GYM)]
+
+- (*arXiv'26*) **CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare**
+  [[📝 Paper](https://arxiv.org/abs/2603.24157)] [[🌐 Project](https://akashghosh.github.io/Care-Pilot/)] [[💻 Code](https://github.com/AkashGhosh/CarePilot)]
+
 - (*arXiv'26*) **One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction (CAMP)**
   [[📝 Paper](https://arxiv.org/abs/2604.00085)]
 
@@ -1042,6 +1066,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
   [[📝 Paper](https://arxiv.org/pdf/2502.08916)]
 
 ### Medical Imaging and Theranostics
+
+- (*arXiv'26*) **MedSynapse-V: Bridging Visual Perception and Clinical Intuition via Latent Memory Evolution**
+  [[📝 Paper](https://arxiv.org/abs/2604.26283)]
+
+- (*arXiv'26*) **How Well Do Multimodal Models Reason on ECG Signals?**
+  [[📝 Paper](https://arxiv.org/abs/2603.00312)]
 
 - (*arXiv'26*) **BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging**
   [[📝 Paper](https://arxiv.org/abs/2604.04078)] [[💻 Code](https://github.com/plantain-herb/Cardiac-Agent)]
@@ -1288,6 +1318,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Meta-Harness: End-to-End Optimization of Model Harnesses**
   [[📝 Paper](https://arxiv.org/pdf/2603.28052)]
+
+- (*arXiv'26*) **ARA: Agentic Reproducibility Assessment for Scalable Support of Scientific Peer-Review**
+  [[📝 Paper](https://arxiv.org/abs/2605.02651)] [[💻 Code](https://github.com/AndresLaverdeMarin/agentic_reproducibility_assessment)]
+
+- (*arXiv'26*) **MemTier: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents**
+  [[📝 Paper](https://arxiv.org/abs/2605.03675)]
 
 - (*arXiv'25*) **Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience**
   [[📝 Paper](https://arxiv.org/abs/2505.05515)] [[💻 Code](https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning)]
