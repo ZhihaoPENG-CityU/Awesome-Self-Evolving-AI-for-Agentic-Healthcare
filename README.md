@@ -448,6 +448,30 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **How Well Do Multimodal Models Reason on ECG Signals?**
   [[📝 Paper](https://arxiv.org/abs/2603.00312)]
 
+- (*arXiv'26*) **TheraAgent: Self-Improving Therapeutic Agent for Precise and Comprehensive Treatment Planning**
+  [[📝 Paper](https://arxiv.org/abs/2605.05963)]
+
+- (*arXiv'26*) **A Versatile AI Agent for Rare Disease Diagnosis and Risk Gene Prioritization**
+  [[📝 Paper](https://arxiv.org/abs/2605.06226)]
+
+- (*arXiv'26*) **SkillOS: Learning Skill Curation for Self-Evolving Agents**
+  [[📝 Paper](https://arxiv.org/abs/2605.06614)]
+
+- (*arXiv'26*) **NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research**
+  [[📝 Paper](https://arxiv.org/abs/2605.06584)]
+
+- (*arXiv'26*) **CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification**
+  [[📝 Paper](https://arxiv.org/abs/2605.03476)]
+
+- (*arXiv'26*) **Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy**
+  [[📝 Paper](https://arxiv.org/abs/2605.01101)]
+
+- (*arXiv'26*) **NeuroClaw Technical Report: Closed-Loop Agentic AI for Executable and Reproducible Neuroimaging Research**
+  [[📝 Paper](https://arxiv.org/abs/2604.24696)] [[🌐 Project](https://cuhk-aim-group.github.io/NeuroClaw/index.html)] [[💻 Code](https://github.com/CUHK-AIM-Group/NeuroClaw)]
+
+- (*arXiv'26*) **Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning**
+  [[📝 Paper](https://arxiv.org/abs/2602.09945)]
+
 ### 2025
 
 - (*arXiv'25*) **Evolving Diagnostic Agents in a Virtual Clinical Environment**
@@ -987,6 +1011,15 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare**
   [[📝 Paper](https://arxiv.org/abs/2603.24157)] [[🌐 Project](https://akashghosh.github.io/Care-Pilot/)] [[💻 Code](https://github.com/AkashGhosh/CarePilot)]
 
+- (*arXiv'26*) **A Versatile AI Agent for Rare Disease Diagnosis and Risk Gene Prioritization**
+  [[📝 Paper](https://arxiv.org/abs/2605.06226)]
+
+- (*arXiv'26*) **Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning**
+  [[📝 Paper](https://arxiv.org/abs/2602.09945)]
+
+- (*arXiv'26*) **CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification**
+  [[📝 Paper](https://arxiv.org/abs/2605.03476)]
+
 - (*arXiv'26*) **One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction (CAMP)**
   [[📝 Paper](https://arxiv.org/abs/2604.00085)]
 
@@ -1066,6 +1099,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
   [[📝 Paper](https://arxiv.org/pdf/2502.08916)]
 
 ### Medical Imaging and Theranostics
+
+- (*arXiv'26*) **NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research**
+  [[📝 Paper](https://arxiv.org/abs/2605.06584)]
+
+- (*arXiv'26*) **NeuroClaw Technical Report: Closed-Loop Agentic AI for Executable and Reproducible Neuroimaging Research**
+  [[📝 Paper](https://arxiv.org/abs/2604.24696)] [[🌐 Project](https://cuhk-aim-group.github.io/NeuroClaw/index.html)] [[💻 Code](https://github.com/CUHK-AIM-Group/NeuroClaw)]
 
 - (*arXiv'26*) **MedSynapse-V: Bridging Visual Perception and Clinical Intuition via Latent Memory Evolution**
   [[📝 Paper](https://arxiv.org/abs/2604.26283)]
@@ -1151,6 +1190,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'25*) **Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data**
   [[📝 Paper](https://arxiv.org/abs/2506.05542)] [[💻 Code](https://github.com/BioGeMT/Agentomics-ML)]
+
+- (*arXiv'26*) **A Versatile AI Agent for Rare Disease Diagnosis and Risk Gene Prioritization**
+  [[📝 Paper](https://arxiv.org/abs/2605.06226)]
 
 - (*bioRxiv'26*) **A Unified Agent-Enabled Platform for Drug Repurposing across Molecular, Phenotypic, and Clinical Scales**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.04.19.719462v1)]
@@ -1247,6 +1289,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Evo-MedAgent: Beyond One-Shot Diagnosis with Agents That Remember, Reflect, and Improve**
   [[📝 Paper](https://arxiv.org/abs/2604.14475)]
 
+- (*arXiv'26*) **TheraAgent: Self-Improving Therapeutic Agent for Precise and Comprehensive Treatment Planning**
+  [[📝 Paper](https://arxiv.org/abs/2605.05963)]
+
 - (*arXiv'26*) **Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication (SeqComm-DFL)**
   [[📝 Paper](https://arxiv.org/abs/2604.08944)]
 
@@ -1282,6 +1327,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Rethinking Patient Education as Multi-turn Multi-modal Interaction**
   [[📝 Paper](https://arxiv.org/abs/2604.14656)]
 
+- (*arXiv'26*) **Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy**
+  [[📝 Paper](https://arxiv.org/abs/2605.01101)]
+
 ### Ethics, Safety, and Limits
 
 - (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
@@ -1292,6 +1340,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'25*) **MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems**
   [[📝 Paper](https://arxiv.org/abs/2505.20824)] [[💻 Code](https://github.com/KaiChenNJ/MedSentry)]
+
+- (*arXiv'26*) **CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification**
+  [[📝 Paper](https://arxiv.org/abs/2605.03476)]
 
 - (*arXiv'26*) **A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation**
   [[📝 Paper](https://arxiv.org/abs/2604.00249)]
@@ -1324,6 +1375,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **MemTier: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents**
   [[📝 Paper](https://arxiv.org/abs/2605.03675)]
+
+- (*arXiv'26*) **SkillOS: Learning Skill Curation for Self-Evolving Agents**
+  [[📝 Paper](https://arxiv.org/abs/2605.06614)]
 
 - (*arXiv'25*) **Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience**
   [[📝 Paper](https://arxiv.org/abs/2505.05515)] [[💻 Code](https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning)]
