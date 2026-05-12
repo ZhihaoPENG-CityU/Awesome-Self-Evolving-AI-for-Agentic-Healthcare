@@ -400,6 +400,18 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization**
   [[📝 Paper](https://arxiv.org/abs/2604.17091)] [[💻 Code](https://github.com/lsdefine/GenericAgent)]
 
+- (*arXiv'26*) **MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs**
+  [[🌐 arXiv](https://arxiv.org/search/?searchtype=all&query=MAGE%3A%20Multi-Agent%20Self-Evolution%20with%20Co-Evolutionary%20Knowledge%20Graphs&abstracts=show&order=-announced_date_first&size=25)]
+
+- (*arXiv'25*) **Evolving-RL: End-to-End Optimization of Experience-Driven Self-Evolving Capability**
+  [[📝 Paper](https://arxiv.org/abs/2509.15194)] [[💻 Code](https://github.com/YujunZhou/EVOL-RL)]
+
+- (*GitHub'26*) **NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation**
+  [[💻 Code](https://github.com/OpenRaiser/NanoResearch)]
+
+- (*arXiv'26*) **SkillEvolver: Dynamic Skill Lifecycle Management for Agentic RL**
+  [[📝 Paper](https://arxiv.org/abs/2603.17187)] [[💻 Code](https://github.com/aiming-lab/MetaClaw)]
+
 - (*arXiv'25*) **Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data**
   [[📝 Paper](https://arxiv.org/abs/2506.05542)] [[💻 Code](https://github.com/BioGeMT/Agentomics-ML)]
 
@@ -1411,6 +1423,18 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization**
   [[📝 Paper](https://arxiv.org/abs/2604.17091)] [[💻 Code](https://github.com/lsdefine/GenericAgent)]
+
+- (*arXiv'26*) **MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs**
+  [[🌐 arXiv](https://arxiv.org/search/?searchtype=all&query=MAGE%3A%20Multi-Agent%20Self-Evolution%20with%20Co-Evolutionary%20Knowledge%20Graphs&abstracts=show&order=-announced_date_first&size=25)]
+
+- (*arXiv'25*) **Evolving-RL: End-to-End Optimization of Experience-Driven Self-Evolving Capability**
+  [[📝 Paper](https://arxiv.org/abs/2509.15194)] [[💻 Code](https://github.com/YujunZhou/EVOL-RL)]
+
+- (*GitHub'26*) **NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation**
+  [[💻 Code](https://github.com/OpenRaiser/NanoResearch)]
+
+- (*arXiv'26*) **SkillEvolver: Dynamic Skill Lifecycle Management for Agentic RL**
+  [[📝 Paper](https://arxiv.org/abs/2603.17187)] [[💻 Code](https://github.com/aiming-lab/MetaClaw)]
 
 - (*arXiv'26*) **AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**
   [[📝 Paper](https://arxiv.org/abs/2603.18000)] [[💻 Code](https://github.com/zzatpku/AgentFactory)]
