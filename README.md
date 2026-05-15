@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>Awesome-Medical-VLM-Agent-Self-Evolution</strong>
+  <strong>Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness</strong>
 </h1>
 <!-- Advancements In Medical VLM Agentic Models: Self-Evolution, Harness Engineering, and Beyond -->
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <!-- <a href="https://github.com/ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution/stargazers"><img src="https://img.shields.io/github/stars/ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution?style=social" alt="GitHub stars"></a> -->
+  <!-- <a href="https://github.com/ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness/stargazers"><img src="https://img.shields.io/github/stars/ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness?style=social" alt="GitHub stars"></a> -->
   <a href="#-contributing"><img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions welcome"></a>
 </p>
 
@@ -1093,9 +1093,6 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 - [Related·B] (*arXiv'26_05*) **PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments**
   [[📝 Paper](https://arxiv.org/abs/2605.02240)]
 
-- [Related·B] (*arXiv'26_05*) **Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model**
-  [[📝 Paper](https://arxiv.org/abs/2605.14723)] [[💻 Code](https://github.com/FreedomIntelligence/SepsisAgent)]
-
 - [Related·B] (*arXiv'26_05*) **Healthcare AI GYM for Medical Agents**
   [[📝 Paper](https://arxiv.org/abs/2605.02943)] [[💻 Code](https://github.com/minstar/Healthcare_GYM)]
 
@@ -1397,7 +1394,7 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### Health Communication and Alignment
 
-- [Related·B] (*J. Med. Syst.'26*) **When Chatbots Become Agents: The Next Phase of Healthcare AI**
+- [Related·D] (*J. Med. Syst.'26*) **When Chatbots Become Agents: The Next Phase of Healthcare AI**
   [[📝 Paper](https://doi.org/10.1007/s10916-026-02402-4)]
 
 - [Core] (*arXiv'26_04*) **A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation**
@@ -1460,15 +1457,6 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
   [[📝 Paper](https://www.medrxiv.org/content/10.1101/2025.08.23.25334280v2)]
 
 ### General Self-Evolving Frameworks and Methods
-
-- [Related·A] (*arXiv'26_05*) **GraphFlow: An Architecture for Formally Verifiable Visual Workflows Enabling Reliable Agentic AI Automation**
-  [[📝 Paper](https://arxiv.org/abs/2605.14968)]
-
-- [Related·A] (*arXiv'26_05*) **Holistic Evaluation and Failure Diagnosis of AI Agents**
-  [[📝 Paper](https://arxiv.org/abs/2605.14865)]
-
-- [Related·A] (*arXiv'26_05*) **MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems**
-  [[📝 Paper](https://arxiv.org/abs/2605.06623)] [[💻 Code](https://github.com/wangzx1219/MASPO)]
 
 - [Related·A] (*arXiv'26_03*) **Meta-Harness: End-to-End Optimization of Model Harnesses**
   [[📝 Paper](https://arxiv.org/pdf/2603.28052)]
@@ -1628,11 +1616,11 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/?repos=ZhihaoPENG-CityU%2FAwesome-Medical-VLM-Agent-Self-Evolution&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=ZhihaoPENG-CityU%2FAwesome-Medical-VLM-Agent-Self-Evolution-and-Harness&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness&type=date&legend=top-left" />
  </picture>
 </a>
 
@@ -1652,8 +1640,8 @@ If you find any relevant papers, codebases, benchmarks, or project pages related
 Suggested format:
 
 ```markdown
-- [Related·A] (*Venue'YY_MM*) **Paper Title**
-- [Related·A] (*Venue'YY*) **Paper Title**
+- [Core] (*Venue'YY_MM*) **Paper Title** [[📝 Paper](link)] [[💻 Code](link)]
+- [Related·B] (*Venue'YY*) **Paper Title** [[📝 Paper](link)]
 ```
 
 Use `[Core]` when the paper fits the primary list scope; otherwise choose `[Related·A]`–`[Related·E]` per [Related but Not Core](#-related-but-not-core).
