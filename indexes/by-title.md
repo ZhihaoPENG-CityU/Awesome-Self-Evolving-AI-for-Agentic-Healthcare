@@ -31,6 +31,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.19606)]
 
+- **Adaptive Memory and Reflection Multi-Agent System for Medical Question Answering** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2608.19029)] [[💻 Code](https://github.com/mm-air/AMR-Agent)]
+
 - **Adaptive Reasoning and Acting in Medical Language Agents** — *Unknown* · **2024**
   [[📝 Paper](https://arxiv.org/abs/2410.10020)]
 
@@ -644,6 +647,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **SkinGPT-X: A Self-Evolving Collaborative Multi-Agent System for Transparent and Trustworthy Dermatological Diagnosis** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2603.26122)]
+
+- **SSE-Bio: A Structured Self-Evolving Agent with Agentic Retrieval Policy for Multi-Hop Biomedical Reasoning** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2608.22132)] [[💻 Code](https://github.com/ZhaohanM/SSE-Bio)]
 
 - **STELLA: Towards a Biomedical World Model with Self-Evolving Multimodal Agents** — *Unknown* · **2026**
   [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.07.01.662467v2)]

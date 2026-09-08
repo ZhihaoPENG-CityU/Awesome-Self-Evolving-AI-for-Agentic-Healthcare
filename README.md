@@ -97,8 +97,14 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 - [Core] (*arXiv'26_08*) **MediSkill-Evo: Process-Constrained Self-Evolution for Evidence-Grounded Clinical Interaction**
   [[📝 Paper](https://arxiv.org/abs/2608.23397)] [[💻 Code](https://anonymous.4open.science/r/mediskill-evo_anonymous-68E7/)]
 
+- [Core] (*EMNLP'26_08*) **SSE-Bio: A Structured Self-Evolving Agent with Agentic Retrieval Policy for Multi-Hop Biomedical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2608.22132)] [[💻 Code](https://github.com/ZhaohanM/SSE-Bio)]
+
 - [Core] (*medRxiv'26_08*) **MARLA: An Autonomous Agent for Medical AI Research and Development**
   [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.08.21.26361049v2)]
+
+- [Core] (*IEEE SMC'26_08*) **Adaptive Memory and Reflection Multi-Agent System for Medical Question Answering**
+  [[📝 Paper](https://arxiv.org/abs/2608.19029)] [[💻 Code](https://github.com/mm-air/AMR-Agent)]
 
 - [Core] (*arXiv'26_08*) **MedClaw: Heuristic Agent Harness for Long-Horizon Surgical Video Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2608.14015)] [[🌐 Project](https://fyycs.github.io/medclaw/)]
@@ -1214,6 +1220,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 - [Core] (*arXiv'26_08*) **MediSkill-Evo: Process-Constrained Self-Evolution for Evidence-Grounded Clinical Interaction**
   [[📝 Paper](https://arxiv.org/abs/2608.23397)] [[💻 Code](https://anonymous.4open.science/r/mediskill-evo_anonymous-68E7/)]
 
+- [Core] (*IEEE SMC'26_08*) **Adaptive Memory and Reflection Multi-Agent System for Medical Question Answering**
+  [[📝 Paper](https://arxiv.org/abs/2608.19029)] [[💻 Code](https://github.com/mm-air/AMR-Agent)]
+
 - [Core] (*arXiv'26_07*) **A Multi-Agent System for Autonomous, Fine-Tuning-Free Clinical Symptom Detection: Development and Validation Study**
   [[📝 Paper](https://arxiv.org/abs/2607.12886)]
 
@@ -1447,6 +1456,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 - [Core] (*arXiv'26_08*) **FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling**
   [[📝 Paper](https://arxiv.org/abs/2608.27856)]
+
+- [Core] (*EMNLP'26_08*) **SSE-Bio: A Structured Self-Evolving Agent with Agentic Retrieval Policy for Multi-Hop Biomedical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2608.22132)] [[💻 Code](https://github.com/ZhaohanM/SSE-Bio)]
 
 - [Core] (*medRxiv'26_08*) **MARLA: An Autonomous Agent for Medical AI Research and Development**
   [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.08.21.26361049v2)]
