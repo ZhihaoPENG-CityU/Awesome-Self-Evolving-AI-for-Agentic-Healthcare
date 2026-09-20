@@ -96,6 +96,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **Artificial Intelligence Agents in Mental Health: A Systematic Review and Meta Analysis**
 [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.04.21.26351365v1)]
 
+- (2026) **Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents**
+[[📝 Paper](https://arxiv.org/abs/2609.13543)]
+
 - (2026) **Autogenesis: A Self-Evolving Agent Protocol**
 [[📝 Paper](https://arxiv.org/abs/2604.15034)]
 
@@ -210,6 +213,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **DrugSAGE: Self-evolving Agent Experience for Efficient State-of-the-Art Drug Discovery**
 [[📝 Paper](https://arxiv.org/abs/2605.15461)]
 
+- (2026) **EMR: Self-Evolving Medical Multi-Agent System via Experience Mining and Reuse**
+[[📝 Paper](https://arxiv.org/abs/2609.15161)]
+
 - (2026) **EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents**
 [[📝 Paper](https://arxiv.org/abs/2604.07549)]
 
@@ -317,6 +323,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2026) **Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent**
 [[📝 Paper](https://arxiv.org/pdf/2604.07269)]
+
+- (2026) **LearnActCoder: Role-Aware Error Memory for Adaptive Clinical Coding Agents**
+[[📝 Paper](https://arxiv.org/abs/2609.19721)]
 
 - (2026) **Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization**
 [[📝 Paper](https://arxiv.org/abs/2604.20714)]
@@ -650,6 +659,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2025) **MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**
 [[📝 Paper](https://arxiv.org/pdf/2503.22678)] [[💻 Code](https://github.com/MAXNORM8650/MedAgentSim)]
+
+- (2025) **MedDCR: Learning to Design Agentic Workflows for Medical Coding**
+[[📝 Paper](https://arxiv.org/abs/2511.13361)] [[DOI](https://doi.org/10.18653/v1/2026.findings-acl.627)]
 
 - (2025) **MedLA: A Logic-Driven Multi-Agent Framework for Complex Medical Reasoning with Large Language Models**
 [[📝 Paper](https://arxiv.org/abs/2509.23725)]

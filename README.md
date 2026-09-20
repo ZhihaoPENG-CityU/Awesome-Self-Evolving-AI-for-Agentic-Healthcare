@@ -88,6 +88,15 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### 2026
 
+- [Core] (*arXiv'26_09*) **LearnActCoder: Role-Aware Error Memory for Adaptive Clinical Coding Agents**
+  [[📝 Paper](https://arxiv.org/abs/2609.19721)]
+
+- [Core] (*arXiv'26_09*) **EMR: Self-Evolving Medical Multi-Agent System via Experience Mining and Reuse**
+  [[📝 Paper](https://arxiv.org/abs/2609.15161)]
+
+- [Core] (*EMNLP Findings'26_09*) **Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents**
+  [[📝 Paper](https://arxiv.org/abs/2609.13543)]
+
 - [Core] (*arXiv'26_08*) **Towards Fully Automated Medical Imaging Code Generation via Validation-based Context Engineering**
   [[📝 Paper](https://arxiv.org/abs/2608.29016)]
 
@@ -657,6 +666,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### 2025
 
+- [Core] (*ACL Findings'26_07*) **MedDCR: Learning to Design Agentic Workflows for Medical Coding**
+  [[📝 Paper](https://arxiv.org/abs/2511.13361)] [[DOI](https://doi.org/10.18653/v1/2026.findings-acl.627)]
+
 - [Core] (*arXiv'25_10*) **Evolving Diagnostic Agents in a Virtual Clinical Environment**
   [[📝 Paper](https://arxiv.org/abs/2510.24654)]
 
@@ -1214,6 +1226,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### Medical Diagnosis and Consultation
 
+- [Core] (*arXiv'26_09*) **EMR: Self-Evolving Medical Multi-Agent System via Experience Mining and Reuse**
+  [[📝 Paper](https://arxiv.org/abs/2609.15161)]
+
 - [Core] (*npj Digital Medicine'26*) **An autonomous agentic workflow for clinical detection of cognitive concerns using large language models**
   [[📝 Paper](https://www.nature.com/articles/s41746-025-02324-4)] [[💻 Code](https://github.com/clai-group/Pythia)]
 
@@ -1431,6 +1446,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### Clinical Simulation and Virtual Clinical Environments
 
+- [Core] (*EMNLP Findings'26_09*) **Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents**
+  [[📝 Paper](https://arxiv.org/abs/2609.13543)]
+
 - [Core] (*arXiv'26_03*) **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence**
   [[📝 Paper](https://arxiv.org/abs/2603.14771)] [[💻 Code](https://github.com/ZJU-LLMs/Agent-Kernel/tree/main/demo/OpenHospital)]
 
@@ -1551,6 +1569,12 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
   [[📝 Paper](https://ijisae.org/index.php/IJISAE/article/view/7793)]
 
 ### Clinical Decision-Making and Trial Optimization
+
+- [Core] (*arXiv'26_09*) **LearnActCoder: Role-Aware Error Memory for Adaptive Clinical Coding Agents**
+  [[📝 Paper](https://arxiv.org/abs/2609.19721)]
+
+- [Core] (*ACL Findings'26_07*) **MedDCR: Learning to Design Agentic Workflows for Medical Coding**
+  [[📝 Paper](https://arxiv.org/abs/2511.13361)] [[DOI](https://doi.org/10.18653/v1/2026.findings-acl.627)]
 
 - [Core] (*Meta-Radiology'26*) **Toward Vibe Medicine: A Self-Evolving Multi-Agent Framework for Clinical Decision Support**
   [[📝 Paper](https://arxiv.org/abs/2606.15504)] [[DOI](https://doi.org/10.1016/j.metrad.2026.100223)]

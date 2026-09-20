@@ -109,6 +109,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **Artificial Intelligence Agents in Mental Health: A Systematic Review and Meta Analysis** — *Unknown* · **2026**
   [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.04.21.26351365v1)]
 
+- **Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2609.13543)]
+
 - **Autogenesis: A Self-Evolving Agent Protocol** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.15034)]
 
@@ -246,6 +249,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **DrugSAGE: Self-evolving Agent Experience for Efficient State-of-the-Art Drug Discovery** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2605.15461)]
+
+- **EMR: Self-Evolving Medical Multi-Agent System via Experience Mining and Reuse** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2609.15161)]
 
 - **EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.07549)]
@@ -394,6 +400,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning** — *Unknown* · **2025**
   [[📝 Paper](https://arxiv.org/abs/2506.13474)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10011252)] [[💻 Code](https://github.com/dharouni/LA-CDM)]
 
+- **LearnActCoder: Role-Aware Error Memory for Adaptive Clinical Coding Agents** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2609.19721)]
+
 - **Learning to Be A Doctor: Searching for Effective Medical Agent Architectures** — *Unknown* · **2025**
   [[📝 Paper](https://arxiv.org/abs/2504.11301)] [[DOI](https://doi.org/10.1145/3746027.3755559)]
 
@@ -456,6 +465,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **MedClaw: Heuristic Agent Harness for Long-Horizon Surgical Video Reasoning** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2608.14015)] [[🌐 Project](https://fyycs.github.io/medclaw/)]
+
+- **MedDCR: Learning to Design Agentic Workflows for Medical Coding** — *Unknown* · **2025**
+  [[📝 Paper](https://arxiv.org/abs/2511.13361)] [[DOI](https://doi.org/10.18653/v1/2026.findings-acl.627)]
 
 - **MediHive: A Decentralized Agent Collective for Medical Question Answering** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2603.27150)]
