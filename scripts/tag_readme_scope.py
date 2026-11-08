@@ -162,6 +162,13 @@ FORCE_D = [
     "haarf:",
 ]
 
+# Method-reviewed medical/biomedical self-evolving additions.
+VERIFIED_SCOPE_2026_11_06 = {
+    'diabagent: toward agentic physiological control': 'Core',
+    'memig: self-evolving memory construction for antibody optimization': 'Core',
+    'molrsi: a recursive self-improving ai agent for molecular discovery': 'Core',
+}
+
 MED_RE = re.compile(
     r"medical|clinical|health|healthcare|hospital|patient|physician|diagnos|therapy|"
     r"counsel|psychiat|mental |ehr|emr|oncolog|biomed|genomic|protein|cell |trial|"
@@ -198,6 +205,9 @@ def classify(title: str, section: str) -> str:
 
     if "survey papers" in sec:
         return "Related·D"
+
+    if t in VERIFIED_SCOPE_2026_11_06:
+        return VERIFIED_SCOPE_2026_11_06[t]
 
     if any(x in t for x in FORCE_CORE):
         return "Core"

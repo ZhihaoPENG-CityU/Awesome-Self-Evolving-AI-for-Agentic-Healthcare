@@ -76,6 +76,8 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 > **Note:** Tags are **curatorial**, not quality judgments. Related entries remain valuable for context, methods, and literature history. Re-tag after major scope changes with `python scripts/tag_readme_scope.py`.
 
+> **RSI inclusion:** Healthcare/biomedical work explicitly named or framed as **recursive self-improvement (RSI)** is in scope and belongs under `[Core]`. Document evidence strength and experimental limitations separately from topical eligibility. General RSI methods are considered separately under `[Related·A]`.
+
 ---
 
 ## 📝 Self-Evolving AI Papers (2023–Now)
@@ -87,6 +89,18 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 > **Other sort orders:** Plain GitHub Markdown has **no** interactive sort controls. After bulk edits, run `python scripts/tag_readme_scope.py` to refresh `[Core]` / `[Related·X]` tags.
 
 ### 2026
+
+- [Core] (*arXiv'26_11*) **DiabAgent: Toward Agentic Physiological Control**
+  [[📝 Paper](https://arxiv.org/abs/2611.03601)]
+
+- [Core] (*arXiv'26_10*) **MEMIG: Self-evolving Memory Construction for Antibody Optimization**
+  [[📝 Paper](https://arxiv.org/abs/2610.41245)]
+
+- [Core] (*arXiv'26_10*) **Learning from Expert-Corrected Misdiagnoses: A Self-Evolving Consultation Agent for Traditional Chinese Medicine after Failed Treatment**
+  [[📝 Paper](https://arxiv.org/abs/2610.40663)]
+
+- [Core] (*arXiv'26_10*) **MoLRSI: A Recursive Self-Improving AI agent for Molecular Discovery**
+  [[📝 Paper](https://arxiv.org/abs/2610.39714)]
 
 - [Core] (*arXiv'26_09*) **LearnActCoder: Role-Aware Error Memory for Adaptive Clinical Coding Agents**
   [[📝 Paper](https://arxiv.org/abs/2609.19721)]
@@ -1226,6 +1240,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### Medical Diagnosis and Consultation
 
+- [Core] (*arXiv'26_10*) **Learning from Expert-Corrected Misdiagnoses: A Self-Evolving Consultation Agent for Traditional Chinese Medicine after Failed Treatment**
+  [[📝 Paper](https://arxiv.org/abs/2610.40663)]
+
 - [Core] (*arXiv'26_09*) **EMR: Self-Evolving Medical Multi-Agent System via Experience Mining and Reuse**
   [[📝 Paper](https://arxiv.org/abs/2609.15161)]
 
@@ -1446,6 +1463,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### Clinical Simulation and Virtual Clinical Environments
 
+- [Core] (*arXiv'26_11*) **DiabAgent: Toward Agentic Physiological Control**
+  [[📝 Paper](https://arxiv.org/abs/2611.03601)]
+
 - [Core] (*EMNLP Findings'26_09*) **Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents**
   [[📝 Paper](https://arxiv.org/abs/2609.13543)]
 
@@ -1471,6 +1491,12 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
   [[📝 Paper](https://arxiv.org/abs/2405.07960)] [[🌐 Project](https://agentclinic.github.io)] [[💻 Code](https://github.com/samuelschmidgall/agentclinic)]
 
 ### Biomedical and Healthcare Research
+
+- [Core] (*arXiv'26_10*) **MEMIG: Self-evolving Memory Construction for Antibody Optimization**
+  [[📝 Paper](https://arxiv.org/abs/2610.41245)]
+
+- [Core] (*arXiv'26_10*) **MoLRSI: A Recursive Self-Improving AI agent for Molecular Discovery**
+  [[📝 Paper](https://arxiv.org/abs/2610.39714)]
 
 - [Core] (*arXiv'26_08*) **FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling**
   [[📝 Paper](https://arxiv.org/abs/2608.27856)]
