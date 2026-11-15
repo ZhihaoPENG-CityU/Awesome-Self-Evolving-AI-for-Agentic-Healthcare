@@ -390,6 +390,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **MoLRSI: A Recursive Self-Improving AI agent for Molecular Discovery**
 [[📝 Paper](https://arxiv.org/abs/2610.39714)]
 
+- (2026) **MRFoundry: Knowledge-guided agent loops for end-to-end MRI research**
+[[📝 Paper](https://arxiv.org/abs/2611.13289)] [[💻 Code](https://github.com/KeWang0622/MRFoundry)]
+
 - (2026) **Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication (SeqComm-DFL)**
 [[📝 Paper](https://arxiv.org/abs/2604.08944)]
 
@@ -673,6 +676,11 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2026) **CARE: A clinical agentic reasoning engine to enhance real-World diagnostic accuracy via structured medical reasoning**
 [[📝 Paper](https://doi.org/10.1016/j.eswa.2026.131476)]
+
+## Findings of EMNLP
+
+- (2026) **Self-Evolving Dual-Role Deliberation for Medication Recommendation from Clinical Records**
+[[📝 Paper](https://aclanthology.org/2026.findings-emnlp.994/)]
 
 ## GitHub
 

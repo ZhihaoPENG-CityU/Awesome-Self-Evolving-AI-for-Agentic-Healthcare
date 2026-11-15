@@ -532,6 +532,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **MoLRSI: A Recursive Self-Improving AI agent for Molecular Discovery** — *arXiv* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2610.39714)]
 
+- **MRFoundry: Knowledge-guided agent loops for end-to-end MRI research** — *arXiv* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2611.13289)] [[💻 Code](https://github.com/KeWang0622/MRFoundry)]
+
 - **Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication (SeqComm-DFL)** — *arXiv* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.08944)]
 
@@ -633,6 +636,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **Self-evolving AI agents for protein discovery and directed evolution** — *arXiv* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2603.27303)] [[💻 Code](https://github.com/ai4protein/VenusFactory2)]
+
+- **Self-Evolving Dual-Role Deliberation for Medication Recommendation from Clinical Records** — *Findings of EMNLP* · **2026**
+  [[📝 Paper](https://aclanthology.org/2026.findings-emnlp.994/)]
 
 - **Self-Evolving LLM Ecosystems for Precision Medicine** — *IJISAE* · **2025**
   [[📝 Paper](https://ijisae.org/index.php/IJISAE/article/view/7793)]

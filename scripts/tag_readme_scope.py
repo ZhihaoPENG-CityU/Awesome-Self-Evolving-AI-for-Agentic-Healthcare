@@ -169,6 +169,12 @@ VERIFIED_SCOPE_2026_11_06 = {
     'molrsi: a recursive self-improving ai agent for molecular discovery': 'Core',
 }
 
+# Medical self-evolution and MRI RSI entries.
+VERIFIED_SCOPE_2026_11_15 = {
+    'mrfoundry: knowledge-guided agent loops for end-to-end mri research': 'Core',
+    'self-evolving dual-role deliberation for medication recommendation from clinical records': 'Core',
+}
+
 MED_RE = re.compile(
     r"medical|clinical|health|healthcare|hospital|patient|physician|diagnos|therapy|"
     r"counsel|psychiat|mental |ehr|emr|oncolog|biomed|genomic|protein|cell |trial|"
@@ -208,6 +214,9 @@ def classify(title: str, section: str) -> str:
 
     if t in VERIFIED_SCOPE_2026_11_06:
         return VERIFIED_SCOPE_2026_11_06[t]
+
+    if t in VERIFIED_SCOPE_2026_11_15:
+        return VERIFIED_SCOPE_2026_11_15[t]
 
     if any(x in t for x in FORCE_CORE):
         return "Core"

@@ -90,6 +90,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### 2026
 
+- [Core] (*arXiv'26_11*) **MRFoundry: Knowledge-guided agent loops for end-to-end MRI research**
+  [[📝 Paper](https://arxiv.org/abs/2611.13289)] [[💻 Code](https://github.com/KeWang0622/MRFoundry)]
+
 - [Core] (*arXiv'26_11*) **DiabAgent: Toward Agentic Physiological Control**
   [[📝 Paper](https://arxiv.org/abs/2611.03601)]
 
@@ -101,6 +104,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 - [Core] (*arXiv'26_10*) **MoLRSI: A Recursive Self-Improving AI agent for Molecular Discovery**
   [[📝 Paper](https://arxiv.org/abs/2610.39714)]
+
+- [Core] (*Findings of EMNLP'26_10*) **Self-Evolving Dual-Role Deliberation for Medication Recommendation from Clinical Records**
+  [[📝 Paper](https://aclanthology.org/2026.findings-emnlp.994/)]
 
 - [Core] (*arXiv'26_09*) **LearnActCoder: Role-Aware Error Memory for Adaptive Clinical Coding Agents**
   [[📝 Paper](https://arxiv.org/abs/2609.19721)]
@@ -1492,6 +1498,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### Biomedical and Healthcare Research
 
+- [Core] (*arXiv'26_11*) **MRFoundry: Knowledge-guided agent loops for end-to-end MRI research**
+  [[📝 Paper](https://arxiv.org/abs/2611.13289)] [[💻 Code](https://github.com/KeWang0622/MRFoundry)]
+
 - [Core] (*arXiv'26_10*) **MEMIG: Self-evolving Memory Construction for Antibody Optimization**
   [[📝 Paper](https://arxiv.org/abs/2610.41245)]
 
@@ -1595,6 +1604,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
   [[📝 Paper](https://ijisae.org/index.php/IJISAE/article/view/7793)]
 
 ### Clinical Decision-Making and Trial Optimization
+
+- [Core] (*Findings of EMNLP'26_10*) **Self-Evolving Dual-Role Deliberation for Medication Recommendation from Clinical Records**
+  [[📝 Paper](https://aclanthology.org/2026.findings-emnlp.994/)]
 
 - [Core] (*arXiv'26_09*) **LearnActCoder: Role-Aware Error Memory for Adaptive Clinical Coding Agents**
   [[📝 Paper](https://arxiv.org/abs/2609.19721)]
