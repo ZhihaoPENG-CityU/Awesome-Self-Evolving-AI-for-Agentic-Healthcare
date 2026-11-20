@@ -64,6 +64,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **Agentic AI Platforms for Autonomous Training and Rule Induction of Human-Human and Virus-Human Protein-Protein Interactions** — *arXiv* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.23924)]
 
+- **Agentic AI versus pediatric emergency physicians for differential diagnosis of acutely ill and injured children** — *medRxiv* · **2026**
+  [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.11.16.26367440v1)]
+
 - **Agentic AI, Medical Morality, and the Transformation of the Clinic** — *arXiv* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2602.16553)]
 
@@ -111,6 +114,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents** — *EMNLP Findings* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2609.13543)]
+
+- **Auditable Clinical Support with Decision Agents** — *arXiv* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2611.23700)]
 
 - **Autogenesis: A Self-Evolving Agent Protocol** — *arXiv* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.15034)]
@@ -553,6 +559,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **NeuroClaw Technical Report: Closed-Loop Agentic AI for Executable and Reproducible Neuroimaging Research** — *arXiv* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.24696)] [[🌐 Project](https://cuhk-aim-group.github.io/NeuroClaw/index.html)] [[💻 Code](https://github.com/CUHK-AIM-Group/NeuroClaw)]
 
+- **Not All Evidence Is Admissible: Evidence Governance for Tool-Augmented Medical Agents** — *arXiv* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2611.22169)]
+
 - **On-Policy Self-Evolution via Failure Trajectories for Agentic Safety Alignment (FATE)** — *arXiv* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2605.11882)] [[💻 Code](https://github.com/YinBo0927/FATE)]
 
@@ -746,6 +755,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning** — *arXiv* · **2026**
   [[📝 Paper](https://arxiv.org/pdf/2603.21289v1)]
+
+- **Where Does Hindsight Enter Clinical Agent Benchmarks? An Audit of Simulators and Case Construction** — *arXiv* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2611.22241)]
 
 - **XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis** — *arXiv* · **2026**
   [[📝 Paper](https://arxiv.org/pdf/2604.02695)]
