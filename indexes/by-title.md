@@ -487,6 +487,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **MedExpMem: Adapting Experience Memory for Differential Diagnosis** — *arXiv* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2605.22872)]
 
+- **MedicalRSI: Medical Recursive Self-Improving Agents via Clinical Model-Harness Co-Evolution** — *arXiv* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2611.26806)]
+
 - **MediHive: A Decentralized Agent Collective for Medical Question Answering** — *arXiv* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2603.27150)]
 

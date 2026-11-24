@@ -90,6 +90,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### 2026
 
+- [Core] (*arXiv'26_11*) **MedicalRSI: Medical Recursive Self-Improving Agents via Clinical Model-Harness Co-Evolution**
+  [[📝 Paper](https://arxiv.org/abs/2611.26806)]
+
 - [Core] (*arXiv'26_11*) **Auditable Clinical Support with Decision Agents**
   [[📝 Paper](https://arxiv.org/abs/2611.23700)]
 
@@ -1257,6 +1260,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 > Each entry carries the same **`[Core]`** / **`[Related·X]`** tag as in the time-ordered list (see [Tags](#-tags)).
 
 ### Medical Diagnosis and Consultation
+
+- [Core] (*arXiv'26_11*) **MedicalRSI: Medical Recursive Self-Improving Agents via Clinical Model-Harness Co-Evolution**
+  [[📝 Paper](https://arxiv.org/abs/2611.26806)]
 
 - [Core] (*medRxiv'26_11*) **Agentic AI versus pediatric emergency physicians for differential diagnosis of acutely ill and injured children**
   [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.11.16.26367440v1)]
